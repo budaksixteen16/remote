@@ -80,7 +80,7 @@
     width: 100px;
     background-color: black;
     color: white;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
   }
   .buttonRed {
